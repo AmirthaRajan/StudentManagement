@@ -1,0 +1,237 @@
+@font-face
+{
+src:url(AvQest.ttf);
+font-family:lord;
+}
+h1
+{
+	font-family: lord;
+	font-size:100px;
+}
+html,body
+{
+	background-image: url(gra.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+
+}
+.glo
+{
+	color:transparent;
+}
+.s0
+{
+animation:as0 5s;
+}
+@keyframes as0
+{
+0%{top:1px;text-shadow: 0px 0px 40px #fff;}
+50%{top:100px;text-shadow: 0px 0px 1px #fff;}
+100%{top:200px;text-shadow: 0px 0px 50px #fff;}
+}
+.s1
+{
+animation:as1 6s 8s;
+}
+@keyframes as1
+{
+0%{text-shadow: 0px 0px 40px #fff;}
+50%{text-shadow: 0px 0px 10px #fff;}
+100%{text-shadow: 0px 0px 50px #fff;}
+}
+.s2
+{
+animation:as2 6s 15s;
+}
+@keyframes as2
+{
+0%{text-shadow: 0px 0px 40px #fff;}
+50%{text-shadow: 0px 0px 10px #fff;}
+100%{text-shadow: 0px 0px 50px #fff;}
+}
+.s3
+{
+animation:as3 6s 22s;
+}
+@keyframes as3
+{
+0%{text-shadow: 0px 0px 40px #fff;}
+50%{text-shadow: 0px 0px 10px #fff;}
+100%{text-shadow: 0px 0px 50px #fff;}
+}
+.s4
+{
+animation:as4 6s 29s;
+}
+@keyframes as4
+{
+0%{text-shadow: 0px 0px 40px #fff;}
+50%{text-shadow: 0px 0px 10px #fff;}
+100%{text-shadow: 0px 0px 50px #fff;}
+}
+.s5
+{
+animation:as5 6s 37s;
+}
+@keyframes as5
+{
+0%{text-shadow: 0px 0px 40px #fff;}
+50%{text-shadow: 0px 0px 10px #fff;}
+100%{text-shadow: 0px 0px 50px #fff;}
+}
+.s6
+{
+animation:as6 6s 45s;
+}
+@keyframes as6
+{
+0%{text-shadow: 0px 0px 40px #fff;}
+50%{text-shadow: 0px 0px 10px #fff;}
+100%{text-shadow: 0px 0px 50px #fff;}
+}
+.s7
+{
+animation:as7 6s 53s;
+}
+@keyframes as7
+{
+0%{text-shadow: 0px 0px 40px #fff;}
+50%{text-shadow: 0px 0px 10px #fff;}
+100%{text-shadow: 0px 0px 50px #fff;}
+}
+.s8
+{
+animation:as8 6s 61s;
+}
+@keyframes as8
+{
+0%{text-shadow: 0px 0px 40px #fff;}
+50%{text-shadow: 0px 0px 10px #fff;}
+100%{text-shadow: 0px 0px 50px #fff;}
+}
+.s9
+{
+animation:as9 6s 68s;
+}
+@keyframes as9
+{
+0%{text-shadow: 0px 0px 40px #fff;}
+50%{text-shadow: 0px 0px 10px #fff;}
+100%{text-shadow: 0px 0px 50px #fff;}
+}
+.s10
+{
+animation:as10 6s 76s;
+}
+@keyframes as10
+{
+0%{text-shadow: 0px 0px 40px #fff;}
+50%{text-shadow: 0px 0px 10px #fff;}
+100%{text-shadow: 0px 0px 50px #fff;}
+}
+#f {
+    right: 10px;
+    position: fixed;
+    text-align: center;
+    bottom: 10px;
+}
+.s11
+{
+animation:as11 6s 83s;
+}
+@keyframes as11
+{
+0%{text-shadow: 0px 0px 40px #fff;}
+50%{text-shadow: 0px 0px 10px #fff;}
+100%{text-shadow: 0px 0px 50px #fff;}
+}
+.s12
+{
+animation:as12 6s 90s;
+}
+@keyframes as12
+{
+0%{text-shadow: 0px 0px 40px #fff;}
+50%{text-shadow: 0px 0px 10px #fff;}
+100%{text-shadow: 0px 0px 50px #fff;}
+}.s13
+{
+animation:as13 6s 97s;
+}
+@keyframes as13
+{
+0%{text-shadow: 0px 0px 40px #fff;}
+50%{text-shadow: 0px 0px 10px #fff;}
+100%{text-shadow: 0px 0px 50px #fff;}
+}
+.s14
+{
+animation:as14 6s 105s;
+}
+@keyframes as14
+{
+0%{text-shadow: 0px 0px 40px #fff;}
+50%{text-shadow: 0px 0px 10px #fff;}
+100%{text-shadow: 0px 0px 50px #fff;}
+}
+.s15
+{
+animation:as15 6s 105s;
+}
+@keyframes as15
+{
+0%{text-shadow: 0px 0px 40px #fff;}
+50%{text-shadow: 0px 0px 10px #fff;}
+100%{text-shadow: 0px 0px 50px #fff;}
+}
+.s16
+{
+animation:as16 6s 105s;
+}
+@keyframes as16
+{
+0%{text-shadow: 0px 0px 40px #fff;}
+50%{text-shadow: 0px 0px 10px #fff;}
+100%{text-shadow: 0px 0px 50px #fff;}
+}
+.s17
+{
+animation:as17 6s 105s;
+}
+@keyframes as17
+{
+0%{text-shadow: 0px 0px 40px #fff;}
+50%{text-shadow: 0px 0px 10px #fff;}
+100%{text-shadow: 0px 0px 50px #fff;}
+}
+.s18
+{
+animation:as18 6s 105s;
+}
+@keyframes as18
+{
+0%{text-shadow: 0px 0px 40px #fff;}
+50%{text-shadow: 0px 0px 10px #fff;}
+100%{text-shadow: 0px 0px 50px #fff;}
+}
+.marquee
+{
+animation:as5 10s 112s;
+}
+@keyframes as5
+{
+0%{text-shadow: 0px 0px 40px #fff;}
+50%{text-shadow: 0px 0px 10px #fff;}
+100%{text-shadow: 0px 0px 50px #fff;}
+}
+.center
+{
+  margin-top:25%;
+  text-align:center;  
+}
+
+@-webkit-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+@-moz-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+@keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+

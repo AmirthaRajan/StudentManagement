@@ -1,0 +1,61 @@
+@CHARSET "ISO-8859-1";
+
+*{
+margin: 0px;
+padding: 0px;
+background-size: 100%;
+background-repeat:no-repeat; 
+background-postion:fixed;
+background-attachment:fixed;
+color: Black;
+}
+h1
+{
+text-align:center;
+color: Black;
+font-size: 35px;
+margin-top: 30px;
+}
+.align
+{
+margin-left: 25px;
+}
+#result
+{
+display: none;
+margin: 50px 0 0 420px;
+}
+#quiz_form
+{
+  margin-left: 200px;
+  margin: 50px 0px 0px 100px;
+}
+.butt 
+{
+    background: none repeat scroll 0 0 #3083FF;
+    border: 2px solid Black;
+    height: 40px;
+    margin: 20px 0 0 50px;
+    width: 170px;
+    font-size: 20px;
+}
+.hide
+{
+display: none;
+}
+#answer
+{
+text-align: center;
+width: 400px;
+font-weight: bold;
+}
+.highlight 
+{
+margin-left:150px;
+ font-size: 20px;
+}
+.high
+{
+ color : #3083FF;
+font-size: 20px;
+}
